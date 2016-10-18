@@ -6,8 +6,6 @@ OMG is this another Tabs vs Spaces kind of thing? :scream:!
 
 So... When do I need a semicolon?
 
-[Clippy, semicolon helper][semicolons/clippy-semicolons.png]
-
 Short Answer: Never*
 
 Why?: Technically they should be used after statements, but this is optional because Javascript has this thing called "Automatic Semicolon Insertion" or ASI for short, which means that "...semicolons are automatically inserted into the source code in the situations in which they are needed"
