@@ -6,7 +6,7 @@ OMG is this another Tabs vs Spaces kind of thing? :scream:!
 
 So... When do I need a semicolon?
 
-[Clippy, semicolon helper][/clippy-semicolons.png]
+[Clippy, semicolon helper][semicolons/clippy-semicolons.png]
 
 Short Answer: Never*
 
