@@ -27,6 +27,5 @@ Let's dig deeper
 3. [ECMA Script ASI Specification](http://www.ecma-international.org/ecma-262/5.1/#sec-7.9)
 4. [YDKJS - Types & Grammar: Error Correction](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch5.md#error-correction)
 5. [You Don't Need Semicolons](https://medium.com/@goatslacker/no-you-dont-need-semicolons-148d936b9cf2)
-
 6. [Airbnb Style Guide](https://github.com/airbnb/javascript#semicolons)
 7. [JS Standard Style Guide](http://standardjs.com/rules.html)
