@@ -17,7 +17,7 @@ Why keep them?
 
 
 Why not use them?
-"It’s easier to remember when a semicolon is required vs when it is not"
+>"It’s easier to remember when a semicolon is required vs when it is not"
 
 
 ##Resources
