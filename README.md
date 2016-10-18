@@ -20,6 +20,28 @@ Why keep them?
 Why not use them?
 >It’s easier to remember when a semicolon is required vs when it is not
 
+##Let's dig deeper...
+
+Usually you need a semicolon when you're *declaring a variable*, *assigning a variable* or when *calling a function*
+
+```javascript
+var myFunction = function(myArg){console.log(myArg);};
+```
+
+You might need a semicolon if you do this
+
+```javascript
+var i = 0; i++
+```
+
+or if you do something like this
+
+```javascript
+clearMenus()
+!isActive && $parent.toggleClass('open')
+ ```
+
+
 ##Resources
 
 1. [Semicolons in JavaScript are optional -  Mislav Marohnić ](http://mislav.net/2010/05/semicolons/)
