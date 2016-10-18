@@ -4,6 +4,8 @@ OMG is this another Tabs vs Spaces kind of thing? :scream:!
 
 [Yes](https://github.com/twbs/bootstrap/issues/3057)
 
+So... When do I need a semicolon?
+
 Short Answer: Never*
 
 Why?: Technically they should be used after statements, but this is optional because Javascript has this thing called "Automatic Semicolon Insertion" or ASI for short, which means that "...semicolons are automatically inserted into the source code in the situations in which they are needed"
@@ -17,8 +19,6 @@ Why keep them?
 
 Why not use them?
 >It’s easier to remember when a semicolon is required vs when it is not
-
-Let's dig deeper
 
 ##Resources
 
