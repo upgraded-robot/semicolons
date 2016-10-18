@@ -16,7 +16,7 @@ And ASI is usually reliable
 
 Long Answer: In this day and age it's basically a style choice and usually the key is the big C: Consistency
 
-![Just put the semicolons](./semicolons-javascript.png)
+![Just put the semicolons](./javascript-semicolons.png)
 
 Why keep them?
 >Because some tools that process Javascript code might break it when they don't find semicolons
